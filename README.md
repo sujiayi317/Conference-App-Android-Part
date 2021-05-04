@@ -1,7 +1,5 @@
 # Project Phase 2
 
-# Project Phase 2
-
 ### 1. Mandatory extensions
 
 -   There will now be many types of events. A one-speaker event is the same as a "talk" from Phase 1. You can have multi-speaker events, like a panel discussion, and no-speaker events, like a party. Events can last as long as you want. You can measure the duration of an event in hours, or minutes. You get to decide.
